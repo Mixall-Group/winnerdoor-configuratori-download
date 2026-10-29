@@ -1,0 +1,17 @@
+{
+  "schema_version": 2,
+  "product": "winnerdoor-privati",
+  "channel": "stable",
+  "minimum_app_version": "1.0.2",
+  "sequence": 2,
+  "release": "collaudo-modello-001-rimozione",
+  "publication": "published",
+  "packages": [
+    {
+      "kind": "data",
+      "url": "https://github.com/Mixall-Group/winnerdoor-configuratori-download/releases/download/collaudo-modello-001-20261029/rimozione.json",
+      "sha256": "54a64fdb7d7afea65a7e211f9023b79bfd7033f62ac2436cf103314fc7306227",
+      "size": 129
+    }
+  ]
+}
