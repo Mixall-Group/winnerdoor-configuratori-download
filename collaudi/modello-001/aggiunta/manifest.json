@@ -1,0 +1,17 @@
+{
+  "schema_version": 2,
+  "product": "winnerdoor-privati",
+  "channel": "stable",
+  "minimum_app_version": "1.0.2",
+  "sequence": 1,
+  "release": "collaudo-modello-001-aggiunta",
+  "publication": "published",
+  "packages": [
+    {
+      "kind": "data",
+      "url": "https://github.com/Mixall-Group/winnerdoor-configuratori-download/releases/download/collaudo-modello-001-20261029/aggiunta.json",
+      "sha256": "18fa934c71a54fd3d3ff518fb8c283cd60488471d8534359d2a77f9abb5ab502",
+      "size": 258
+    }
+  ]
+}
