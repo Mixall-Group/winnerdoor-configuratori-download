@@ -1,0 +1,13 @@
+*
+!/.gitignore
+!/README.md
+!/products/
+!/products/winnerdoor-privati/
+!/products/winnerdoor-privati/stable/
+!/products/winnerdoor-privati/stable/index.json
+!/collaudi/
+!/collaudi/modello-001/
+!/collaudi/modello-001/aggiunta/
+!/collaudi/modello-001/aggiunta/manifest.json
+!/collaudi/modello-001/rimozione/
+!/collaudi/modello-001/rimozione/manifest.json
