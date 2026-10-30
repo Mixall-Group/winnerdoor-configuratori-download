@@ -1,0 +1,17 @@
+{
+  "schema_version": 2,
+  "product": "winnerdoor-privati",
+  "channel": "stable",
+  "minimum_app_version": "1.0.3",
+  "sequence": 1,
+  "release": "winnerdoor-privati-catalogo-20261030",
+  "publication": "published",
+  "packages": [
+    {
+      "kind": "data",
+      "url": "https://github.com/Mixall-Group/winnerdoor-configuratori-download/releases/download/catalogo-privati-20261030-ufficiale/catalogo-ufficiale.json",
+      "sha256": "5266f3782e20dc6c767f75c797f25bfd59932413e09fe59b5e14a3132c443a95",
+      "size": 3322165
+    }
+  ]
+}
