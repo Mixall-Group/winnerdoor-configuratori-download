@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "product": "winnerdoor-privati",
+  "channel": "stable",
+  "release": {
+    "manifest_url": "https://raw.githubusercontent.com/Mixall-Group/winnerdoor-configuratori-download/main/products/winnerdoor-privati/stable/cataloghi/catalogo-privati-20261030-ufficiale/manifest.json"
+  }
+}
