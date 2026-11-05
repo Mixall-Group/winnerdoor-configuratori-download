@@ -1,0 +1,23 @@
+{
+  "schema_version": 2,
+  "product": "winnerdoor-privati",
+  "channel": "stable",
+  "minimum_app_version": "1.0.0",
+  "sequence": 2,
+  "release": "1.0.4",
+  "publication": "published",
+  "packages": [
+    {
+      "kind": "application",
+      "url": "https://github.com/Mixall-Group/winnerdoor-configuratori-download/releases/download/winnerdoor-privati-v1.0.4/Winnerdoor-Setup-1.0.4.exe",
+      "sha256": "9c7a3bbf783cf2e39161ed92fec0dcd7f59b85b7a9f284f316214ce295f5a399",
+      "size": 5058139
+    },
+    {
+      "kind": "application",
+      "url": "https://github.com/Mixall-Group/winnerdoor-configuratori-download/releases/download/winnerdoor-privati-v1.0.4/Winnerdoor-Privati-1.0.4-portabile.zip",
+      "sha256": "ccae241606c7e79feccf3c04536c3eb3fa66d7cdf63ac6288e1ab5fe67ec0a48",
+      "size": 7375996
+    }
+  ]
+}
