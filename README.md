@@ -2,13 +2,13 @@
 
 Archivio pubblico dei soli pacchetti di distribuzione approvati. I sorgenti e la gestione rimangono privati.
 
-## Versione 1.0.13
+## Versione 1.0.14
 
 Il programma per Windows 10/11 x64 comprende entrambi i configuratori Privati: Winnerdoor e WinnerLite.
 
-- [Installer Windows 1.0.13](https://github.com/Mixall-Group/winnerdoor-configuratori-download/releases/download/winnerdoor-privati-v1.0.13/Winnerdoor-Setup-1.0.13.exe)
-- [ZIP portabile 1.0.13](https://github.com/Mixall-Group/winnerdoor-configuratori-download/releases/download/winnerdoor-privati-v1.0.13/Winnerdoor-Privati-1.0.13-portabile.zip)
-- [Novità, guida e impronte della versione 1.0.13](https://github.com/Mixall-Group/winnerdoor-configuratori-download/releases/tag/winnerdoor-privati-v1.0.13)
+- [Installer Windows 1.0.14](https://github.com/Mixall-Group/winnerdoor-configuratori-download/releases/download/winnerdoor-privati-v1.0.14/Winnerdoor-Setup-1.0.14.exe)
+- [ZIP portabile 1.0.14](https://github.com/Mixall-Group/winnerdoor-configuratori-download/releases/download/winnerdoor-privati-v1.0.14/Winnerdoor-Privati-1.0.14-portabile.zip)
+- [Novità, guida e impronte della versione 1.0.14](https://github.com/Mixall-Group/winnerdoor-configuratori-download/releases/tag/winnerdoor-privati-v1.0.14)
 - [Apri il configuratore online](https://configurators.web-bay.com/)
 - [Centro download e assistenza Winnerdoor](https://www.winnerdoor.it/test-page)
 
@@ -18,11 +18,13 @@ L'installer chiede la cartella di installazione e crea i collegamenti con la W. 
 
 All'avvio scegli Winnerdoor oppure WinnerLite, poi una preconfigurazione del catalogo o una configurazione nuova. Le guide già presenti nelle sezioni aiutano a completare le selezioni. Il PDF include il riepilogo e le due viste su una pagina A4; prima del salvataggio occorre compilare il riferimento del cliente o della pratica.
 
-La 1.0.13 introduce le modalità **Semplificato** e **Tecnico dettagliato** nel passo Misure, con gli stessi valori e controlli di fattibilità. È possibile cambiare modalità senza perdere le misure inserite. Il riferimento della tipologia mostra sempre la composizione vista dall'esterno. **L1 e H1 si riferiscono alla luce di passaggio esterna**, non alle dimensioni dell'anta. L'elenco e i campi sulle sezioni tecniche condividono gli stessi dati, anche su smartphone e tablet.
+La 1.0.14 uniforma le diciture delle misure, rende visibili fissi laterali e sopraluce calcolati anche nella modalità **Semplificato** e compatta la presentazione **Tecnico dettagliato**. Puoi passare da una modalità all'altra conservando i valori: l'elenco e i campi sullo schema rimangono sincronizzati. **L e H indicano le dimensioni esterno telaio; L1 e H1 indicano la luce passaggio quando prevista**, non il totale dell'anta.
 
-Le sezioni riprendono i materiali originali, separando il passaggio esterno dal prospetto interno dell'anta. Formule, limiti dimensionali, compatibilità e layer delle due viste mantengono le regole già verificate. Sotto le anteprime viene riportata la nota sulle possibili differenze di tonalità dei colori e delle finiture effetto legno.
+Le miniature hanno riquadri uniformi anche con descrizioni lunghe. Le scelte testuali e le misure dei maniglioni WinnerLite seguono la stessa presentazione di Winnerdoor. Per i colori fuori tabella puoi consultare la mazzetta e indicare il codice RAL o il colore nel campo dedicato: il testo compare nel riepilogo e nel PDF.
 
-Rimangono incluse le correzioni della tastiera su iPhone in Safari e Chrome, la visibilità del campo attivo e l'esportazione PDF in Arial, con titoli in grassetto e valori regolari.
+Il nome proposto per il PDF include il marchio Winnerdoor® o Winnerlite®, la data `gg.mm.yy` e il riferimento cliente. Le misure riportano le diciture **esterno telaio** e **luce passaggio**; il nodo laterale precede quello inferiore quando entrambi sono presenti. Il PDF mantiene Arial, titoli in grassetto, valori regolari e le due viste proporzionate su una pagina A4. Per avere un preventivo contattaci.
+
+Restano applicati i limiti dimensionali, le formule e i controlli di fattibilità verificati per ciascun prodotto. Le compatibilità e i layer delle due viste mantengono le regole esistenti. Rimangono incluse le correzioni della tastiera su iPhone in Safari e Chrome e la visibilità del campo attivo.
 
 ## Aggiornamenti
 
@@ -30,4 +32,4 @@ Il programma controlla i rilasci ufficiali all'avvio. Quando rileva una nuova ve
 
 Un aggiornamento già rilevato resta obbligatorio anche riavviando senza Internet. Se l'installazione o il salvataggio di recupero segnala un problema, correggilo e riprova dall'avviso. Se non è già noto un aggiornamento, rimane possibile utilizzare il motore e i cataloghi locali offline.
 
-Per aggiornare manualmente, chiudi il programma e conferma la cartella della versione già installata. Le copie portabili si aggiornano dal Centro download. Gli aggiornamenti del programma e del catalogo usano indici distinti; i cataloghi verificati entrano in uso al prossimo avvio. Le immagini remote delle selezioni e delle porte richiedono Internet a ogni nuova sessione. La versione online segue le pubblicazioni ufficiali: salva la bozza e ricarica quando compare l'avviso di nuova build.
+Per aggiornare manualmente, chiudi il programma e conferma la cartella della versione già installata. Le copie portabili si aggiornano dal Centro download. Gli aggiornamenti del programma e del catalogo usano indici distinti; i cataloghi verificati entrano in uso al prossimo avvio. Le immagini remote delle selezioni, delle porte e della mazzetta richiedono Internet. La versione online segue le pubblicazioni ufficiali: salva la bozza e ricarica quando compare l'avviso di nuova build.
