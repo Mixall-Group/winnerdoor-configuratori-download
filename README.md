@@ -1,35 +1,39 @@
-# Configuratore Privati Winnerdoor e WinnerLite
+# Configuratore Privati Winnerdoor e WinnerLite 1.0.15
 
-Archivio pubblico dei soli pacchetti di distribuzione approvati. I sorgenti e la gestione rimangono privati.
+Il Configuratore Privati comprende Winnerdoor e WinnerLite nello stesso programma Windows e nella stessa applicazione online. All'avvio si sceglie il prodotto, poi una preconfigurazione di catalogo oppure una nuova configurazione. Il riferimento cliente è obbligatorio prima dell'esportazione PDF.
 
-## Versione 1.0.14
+## Novità della 1.0.15
 
-Il programma per Windows 10/11 x64 comprende entrambi i configuratori Privati: Winnerdoor e WinnerLite.
+Riconciliate tutte le **106 voci WinnerLite** con il [catalogo pubblico 2026-2027](https://www.winnerdoor.it/porte-ingresso-catalogo-lite), comprese le **78 tavole descrittive**: **88 preconfigurazioni complete** e **18 schede di sola consultazione**. Le 16 voci senza distinta nella brochure WinnerLite impiegano una dotazione proposta dal corrispondente modello Winnerdoor, con componenti verificati nelle tabelle WinnerLite. Le informazioni della scheda indicano separatamente pagine della brochure, fonte della proposta e differenze.
 
-- [Installer Windows 1.0.14](https://github.com/Mixall-Group/winnerdoor-configuratori-download/releases/download/winnerdoor-privati-v1.0.14/Winnerdoor-Setup-1.0.14.exe)
-- [ZIP portabile 1.0.14](https://github.com/Mixall-Group/winnerdoor-configuratori-download/releases/download/winnerdoor-privati-v1.0.14/Winnerdoor-Privati-1.0.14-portabile.zip)
-- [Novità, guida e impronte della versione 1.0.14](https://github.com/Mixall-Group/winnerdoor-configuratori-download/releases/tag/winnerdoor-privati-v1.0.14)
-- [Apri il configuratore online](https://configurators.web-bay.com/)
-- [Centro download e assistenza Winnerdoor](https://www.winnerdoor.it/test-page)
+Corrette quattro miniature e i relativi riferimenti: **L25344, L20160, L16029 e L16007**. L25344 segue la propria scheda descrittiva, pagina 12 del catalogo (PDF 14); L20160 rimanda a pagina 25 (PDF 27), L16029 alla posizione corretta nella stessa pagina e L16007 all'indice (PDF 10). Il collegamento al catalogo WinnerLite apre una nuova scheda e conserva la configurazione in corso.
 
-## Utilizzo
+Le regole di calcolo, i limiti dimensionali, le compatibilità e l'ordine dei layer restano quelli esistenti. Il catalogo Winnerdoor conserva **178 schede: 171 complete e 7 non disponibili alla base standard**. Il pomolo **D70140** rimane disponibile per L20181/L25182 e riportato nel riepilogo e nel PDF: il suo layer esterno è ancora da fornire e l'avviso relativo resta visibile.
 
-L'installer chiede la cartella di installazione e crea i collegamenti con la W. Per il portabile, estrarre tutta la cartella prima di avviare `Winnerdoor.exe`. Non servono Rust, Git o un account GitHub. La versione online si usa dal browser senza installazione, anche da smartphone e tablet.
+## Download e accesso online
 
-All'avvio scegli Winnerdoor oppure WinnerLite, poi una preconfigurazione del catalogo o una configurazione nuova. Le guide già presenti nelle sezioni aiutano a completare le selezioni. Il PDF include il riepilogo e le due viste su una pagina A4; prima del salvataggio occorre compilare il riferimento del cliente o della pratica.
+- [Centro download Winnerdoor](https://www.winnerdoor.it/test-page)
+- [Configuratore online](https://configurators.web-bay.com/)
+- [Release 1.0.15](https://github.com/Mixall-Group/winnerdoor-configuratori-download/releases/tag/winnerdoor-privati-v1.0.15)
+- [Installer Windows x64](https://github.com/Mixall-Group/winnerdoor-configuratori-download/releases/download/winnerdoor-privati-v1.0.15/Winnerdoor-Setup-1.0.15.exe)
+- [ZIP portabile](https://github.com/Mixall-Group/winnerdoor-configuratori-download/releases/download/winnerdoor-privati-v1.0.15/Winnerdoor-Privati-1.0.15-portabile.zip)
 
-La 1.0.14 uniforma le diciture delle misure, rende visibili fissi laterali e sopraluce calcolati anche nella modalità **Semplificato** e compatta la presentazione **Tecnico dettagliato**. Puoi passare da una modalità all'altra conservando i valori: l'elenco e i campi sullo schema rimangono sincronizzati. **L e H indicano le dimensioni esterno telaio; L1 e H1 indicano la luce passaggio quando prevista**, non il totale dell'anta.
+La consegna comprende installer, ZIP, GUIDA_PRIVATI.txt e SHA256SUMS.txt. Sorgenti e materiali aziendali restano privati. Installer e ZIP sono stati verificati rispetto alla distinta locale, compresi dimensioni, impronte SHA-256 e contenuti dell'archivio.
 
-Le miniature hanno riquadri uniformi anche con descrizioni lunghe. Le scelte testuali e le misure dei maniglioni WinnerLite seguono la stessa presentazione di Winnerdoor. Per i colori fuori tabella puoi consultare la mazzetta e indicare il codice RAL o il colore nel campo dedicato: il testo compare nel riepilogo e nel PDF.
+## Installazione e aggiornamenti
 
-Il nome proposto per il PDF include il marchio Winnerdoor® o Winnerlite®, la data `gg.mm.yy` e il riferimento cliente. Le misure riportano le diciture **esterno telaio** e **luce passaggio**; il nodo laterale precede quello inferiore quando entrambi sono presenti. Il PDF mantiene Arial, titoli in grassetto, valori regolari e le due viste proporzionate su una pagina A4. Per avere un preventivo contattaci.
+L'installazione interattiva chiede la cartella di destinazione. Per una copia già installata, dopo l'attivazione del rilascio, **Aggiorna ora** scarica l'installer verificato e aggiorna nella cartella esistente senza disinstallazione manuale. Dalla 1.0.11 un aggiornamento verificato è obbligatorio; il lavoro aperto viene conservato e può essere recuperato con **Riapri ultima bozza**.
 
-Restano applicati i limiti dimensionali, le formule e i controlli di fattibilità verificati per ciascun prodotto. Le compatibilità e i layer delle due viste mantengono le regole esistenti. Rimangono incluse le correzioni della tastiera su iPhone in Safari e Chrome e la visibilità del campo attivo.
+Per la versione portabile occorre estrarre tutti i file del nuovo ZIP. Bozze e impostazioni restano nel profilo Windows del computer e non seguono automaticamente la chiavetta. Non occorre creare un account GitHub né installare Git o Rust.
 
-## Aggiornamenti
+La versione online si aggiorna alla riapertura della pagina; se una configurazione è già aperta, salvare la bozza e ricaricare dall'avviso di nuova versione. Le immagini remote richiedono Internet. L'elaborazione della configurazione usa il motore locale; l'attuale distribuzione non comprende un archivio completo di immagini offline.
 
-Il programma controlla i rilasci ufficiali all'avvio. Quando rileva una nuova versione verificata, l'aggiornamento è obbligatorio per continuare: l'avviso non si può rimandare o chiudere con X, Esc o clic esterno. La configurazione aperta viene conservata in una bozza di recupero, anche se incompleta. Scegli **Aggiorna ora**: l'installer aggiorna la copia esistente, senza disinstallazione manuale. Dopo l'aggiornamento usa **Riapri ultima bozza**.
+Le immagini continuano a usare Imgur e le origini attuali. Il nuovo archivio viene mantenuto aggiornato e i configuratori legacy Winnerdoor/WinnerLite restano attivi e aggiornati in parallelo fino alla dismissione concordata.
 
-Un aggiornamento già rilevato resta obbligatorio anche riavviando senza Internet. Se l'installazione o il salvataggio di recupero segnala un problema, correggilo e riprova dall'avviso. Se non è già noto un aggiornamento, rimane possibile utilizzare il motore e i cataloghi locali offline.
+## Controlli del rilascio
 
-Per aggiornare manualmente, chiudi il programma e conferma la cartella della versione già installata. Le copie portabili si aggiornano dal Centro download. Gli aggiornamenti del programma e del catalogo usano indici distinti; i cataloghi verificati entrano in uso al prossimo avvio. Le immagini remote delle selezioni, delle porte e della mazzetta richiedono Internet. La versione online segue le pubblicazioni ufficiali: salva la bozza e ricarica quando compare l'avviso di nuova build.
+Superati **337 test**, cinque fixture esplicite escluse come previsto ed eseguito separatamente il controllo PDF WinnerLite. Formato e Clippy Windows su tutti i target e binari WebAssembly senza avvisi. Verificati 444 file della consegna, 440 portabili e CRC/contenuti del ZIP.
+
+Il PDF continua a riutilizzare le viste già acquisite. Il campione WinnerLite con **28 voci e due viste** è stato verificato su **una pagina A4**, con Arial incorporato, titoli in grassetto, valori regolari e nessun taglio o distorsione. Nel confronto di 50 file del nucleo e dei dati è cambiato soltanto il registro delle preconfigurazioni WinnerLite.
+
+La conferma dell'utilizzatore sull'installazione sul secondo PC e sulla tastiera di telefono/tablet ricevuta il 26 novembre riguarda la **1.0.14**; resta distinta dai controlli della 1.0.15. L'attivazione dell'aggiornamento 1.0.15 segue la pubblicazione della pagina Webflow e la verifica dei due download pubblici.
